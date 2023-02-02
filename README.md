@@ -29,10 +29,26 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://imgur.com/a43FW3E" "https://imgur.com/MzywsdV" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/a43FW3E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/MzywsdV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In these photos you can see I have created a Virtual Machine for the Domain Controller and the Client "pc" to be used in this demo. Both VM's are configure to be on the same Virtual Network within Azure.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ZT2r1TS.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here we have Active Directory Domain Services installed and our Domain configured for our Client VM to join.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/wVcvYuj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/Rrdr9AV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+For this demo, I created one Admin account and used a script to create 100 User accounts with randomly generated names.
 </p>
 <br />
 
@@ -41,13 +57,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
