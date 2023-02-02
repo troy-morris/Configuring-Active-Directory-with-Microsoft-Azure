@@ -1,1 +1,1 @@
-# Configuring-Active-Directory-with-Microsoft-Azure
+# Configuring Active Directory with Microsoft Azure
