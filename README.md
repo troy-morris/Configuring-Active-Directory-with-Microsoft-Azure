@@ -23,7 +23,7 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 
 - Configuring Virtual Machines (Domain Controller and Client)
 - Install Active Directory Domain Services and Add Client VM to Domain
-- Creat Admin and Normal accounts in Active Directory Users and Computers
+- Create Admin and Normal accounts in Active Directory Users and Computers
 - Setup Remote Desktop for Non-Admin users on Client VM
 
 <h2>Deployment and Configuration Steps</h2>
